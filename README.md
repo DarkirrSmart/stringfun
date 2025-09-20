@@ -3,6 +3,8 @@
 <!-- badges: start -->
 
 [![Codecov test coverage](https://codecov.io/gh/DarkirrSmart/stringfun/graph/badge.svg)](https://app.codecov.io/gh/DarkirrSmart/stringfun)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![R-CMD-check](https://github.com/DarkirrSmart/stringfun/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/DarkirrSmart/stringfun/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of stringfun is to ...
