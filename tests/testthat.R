@@ -1,0 +1,1 @@
+library(testthat); library(stringfun); test_check('stringfun')

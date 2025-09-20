@@ -1,0 +1,16 @@
+---
+title: "Wprowadzenie do stringfun"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Wprowadzenie do stringfun}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```r
+library(stringfun)
+reverse("abc")
+count_vowels("Programming")
+snake_case("Hello World")
+word_len_cpp(c("A","abc"))
+```

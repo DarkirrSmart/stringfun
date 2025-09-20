@@ -1,0 +1,1 @@
+csv <- read.csv("data-raw/my.csv"); my_data <- csv; save(my_data, file="data/my_data.rda", compress="xz"); message("OK: data/my_data.rda")
