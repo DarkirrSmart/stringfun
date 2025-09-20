@@ -13,3 +13,5 @@ LinkingTo: Rcpp
 Suggests: testthat (>= 3.0.0), knitr, rmarkdown, pkgdown
 Config/testthat/edition: 3
 VignetteBuilder: knitr
+URL: https://github.com/DarkirrSmart/stringfun
+BugReports: https://github.com/DarkirrSmart/stringfun/issues
