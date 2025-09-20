@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 
+[![Codecov test coverage](https://codecov.io/gh/DarkirrSmart/stringfun/graph/badge.svg)](https://app.codecov.io/gh/DarkirrSmart/stringfun)
 <!-- badges: end -->
 
 The goal of stringfun is to ...
